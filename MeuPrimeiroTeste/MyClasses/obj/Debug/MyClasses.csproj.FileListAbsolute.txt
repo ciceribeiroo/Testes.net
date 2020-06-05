@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\bin\Debug\MyClasses.dll
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\bin\Debug\MyClasses.pdb
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.dll
+C:\Users\Usuario\source\repos\MeuPrimeiroTeste\MyClasses\obj\Debug\MyClasses.pdb
